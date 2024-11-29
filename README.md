@@ -19,9 +19,9 @@
 
 以下のバージョンは動作することを確認しています。
 
-After Effects 23.6.2
-After Effects 24.1
-After Effects 25.0.1
+- After Effects 23.6.2
+- After Effects 24.1
+- After Effects 25.0.1
 
 ## 規約
 
